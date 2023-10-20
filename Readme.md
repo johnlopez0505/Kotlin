@@ -144,11 +144,11 @@ android:theme="@style/Base.Theme.Tema1"
 Ejecutamos nuestro programa `Actividad4`
 
 
-![imgAct4-1](recursos/imgAct4-1.png)
+![imgAct4-1](app/recursos/imgAct4-1.png)
 
 Vemos  que el thema cambia de colo.
 
-![imgAct4-2](recursos/imgAct4-2.png)
+![imgAct4-2](app/recursos/imgAct4-2.png)
 
 Vemos que el thema cambia de color.
 
@@ -214,7 +214,7 @@ class Actividad5 : AppCompatActivity() {
 Ejecutamos nuestro programa `Actividad5`
 
 
-![imgAct5](recursos/imgAct5-1.png)
+![imgAct5](app/recursos/imgAct5-1.png)
 
 
 2: Realizar un Debugger
@@ -287,7 +287,7 @@ class Actividad5 : AppCompatActivity() {
 
 Ejecutamos nuestro programa `Actividad5`
 
-![imgAct5-2](recursos/imgAct5-2.png)
+![imgAct5-2](app/recursos/imgAct5-2.png)
 
 ### 3: Crear una Clase Personalizada
 
@@ -401,10 +401,10 @@ class ClaseA{
 
 Ejecutamos nuestro programa `Actividad5`
 
-![imgAct5-3](recursos/imgAct5-3.png)
+![imgAct5-3](app/recursos/imgAct5-3.png)
 
 
-![imgAct5-4](recursos/imgAct5-4.png)
+![imgAct5-4](app/recursos/imgAct5-4.png)
 
 
 
@@ -482,7 +482,7 @@ Puedes personalizar el diseño ajustando los siguientes atributos:
 
 Ejecutamos nuestro programa `Actividad6`
 
-![imgAct6](recursos/imgAct6.png)
+![imgAct6](app/recursos/imgAct6.png)
 
 
 
@@ -618,18 +618,19 @@ nombre a nuestros botones:
 </resources>
 ```
 Ejecutamos nuestro programa `Actividad7`
-![imgAct7_1](recursos/imgact7_1.png)
+
+![imgAct7_1](app/recursos/imgact7_1.png)
 
 Ahora vamos a pulsar en el boton `saludar a john`:
 
-![](recursos/imgAct7-2.png)
+![](app/recursos/imgAct7-2.png)
 
 Vemos que al pulsar el boton `saludar a john` se muestra el mensaje
 en pantalla.
 
 Ahora vamos a pulsar en el boton `no saludar a john`:
 
-![](recursos/imgAct7-3.png)
+![](app/recursos/imgAct7-3.png)
 
 Vemos que al pulsar el boton `no saludar a john` se muestra el mensaje
 en pantalla.
@@ -637,7 +638,7 @@ en pantalla.
 
 Ahora vamos a pulsar en el boton `saludar a clase`:
 
-![](recursos/imgAct7-4.png)
+![](app/recursos/imgAct7-4.png)
 
 Vemos que al pulsar el boton `saludar a clase` se muestra el mensaje
 en pantalla.
@@ -787,18 +788,18 @@ nombre a nuestros botones:
 </resources>
 ```
 Ejecutamos nuestro programa `Actividad7Modo2`
-![imgAct7_1](recursos/imgAct7-5.png)
+![imgAct7_1](app/recursos/imgAct7-5.png)
 
 Ahora vamos a pulsar en el boton `saludar a john`:
 
-![](recursos/imgAct7-6.png)
+![](app/recursos/imgAct7-6.png)
 
 Vemos que al pulsar el boton `saludar a john` se muestra el mensaje
 en pantalla.
 
 Ahora vamos a pulsar en el boton `no saludar a john`:
 
-![](recursos/imgAct7-7.png)
+![](app/recursos/imgAct7-7.png)
 
 Vemos que al pulsar el boton `no saludar a john` se muestra el mensaje
 en pantalla.
@@ -806,7 +807,7 @@ en pantalla.
 
 Ahora vamos a pulsar en el boton `saludar a clase`:
 
-![](recursos/imgAct7-4.png)
+![](app/recursos/imgAct7-4.png)
 
 Vemos que al pulsar el boton `saludar a clase` se muestra el mensaje
 en pantalla.
@@ -973,18 +974,18 @@ nombre a nuestros botones:
 </resources>
 ```
 Ejecutamos nuestro programa `Actividad7Modo3`
-![imgAct7_1](recursos/imgAct7-5.png)
+![imgAct7_1](app/recursos/imgAct7-5.png)
 
 Ahora vamos a pulsar en el boton `saludar a john`:
 
-![](recursos/imgAct7-6.png)
+![](app/recursos/imgAct7-6.png)
 
 Vemos que al pulsar el boton `saludar a john` se muestra el mensaje
 en pantalla.
 
 Ahora vamos a pulsar en el boton `no saludar a john`:
 
-![](recursos/imgAct7-7.png)
+![](app/recursos/imgAct7-7.png)
 
 Vemos que al pulsar el boton `no saludar a john` se muestra el mensaje
 en pantalla.
@@ -992,7 +993,7 @@ en pantalla.
 
 Ahora vamos a pulsar en el boton `saludar a clase`:
 
-![](recursos/imgAct7-4.png)
+![](app/recursos/imgAct7-4.png)
 
 Vemos que al pulsar el boton `saludar a clase` se muestra el mensaje
 en pantalla.
