@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">Tema1</string>
+    <string name="btnSaludar">Saludar a john</string>
+    <string name="hola">!Hello Word</string>
+    <string name="no_saludar">No Saludar a John</string>
+    <string name="textview">TextView</string>
+    <string name="clase">Saludar a Clase</string>
+    <string name="hola_android">¡Hola, Android!</string>
+    <string name="presionar">Presionar</string>
+    <string name="app_name">TEMA1</string>
+    <string name="app_name1">TAREA1</string>
+    <string name="app_name7_3">7Modo3</string>
+    <string name="app_name7_2">7Modo2</string>
+    <string name="app_name7">TAREA7</string>
+    <string name="app_name6">TAREA6</string>
+    <string name="app_name5">TAREA5</string>
+    <string name="app_name4">TAREA4</string>
+    <string name="app_name2">TAREA2</string>
 </resources>

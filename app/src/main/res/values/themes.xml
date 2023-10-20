@@ -6,4 +6,18 @@
     </style>
 
     <style name="Theme.Tema1" parent="Base.Theme.Tema1" />
+
+    <!-- Base application theme. -->
+    <!-- Definir un nuevo color -->
+    <color name="colorPrimary">#4BFF22</color>
+
+    <!-- Definir otro color -->
+    <color name="colorAccent">#CDDC39</color>
+    <style name="Base.Theme.Tema2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#DAEC11</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
 </resources>
