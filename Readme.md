@@ -6,7 +6,7 @@
 * Descarga Android Studio desde el sitio web oficial: 
 [https://developer.android.com/studio](https://developer.android.com/studio).
 
-![img1](recursos/imagen1.png)
+![img1](app/recursos/imagen1.png)
 * Sigue las instrucciones de instalación específicas para tu sistema operativo.
 
 ### Inicia Android Studio:
